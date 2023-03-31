@@ -1,0 +1,14 @@
+.two-columns__brief {
+  width: 175px;
+
+  border: solid 1px red;
+
+}
+
+.two-columns__brief h2 {
+  color: #2f80ed;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
+}

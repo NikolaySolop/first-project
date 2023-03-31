@@ -1,0 +1,7 @@
+.header__subtitle_text {
+  display: inline;
+  font-family: Inter, sans-serif;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}

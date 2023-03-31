@@ -1,0 +1,12 @@
+.khan__book-pic {
+  margin: 0 48px 0 0 ;
+
+  width: 620px;
+  height: 608px;
+
+  border: solid 1px black;
+}
+
+.khan__book-pic img {
+  width: 100%;
+}

@@ -1,0 +1,8 @@
+.footer__columns {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+
+  border: solid 1px purple;
+}

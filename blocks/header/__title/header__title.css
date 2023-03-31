@@ -1,0 +1,14 @@
+.header__title {
+  display: flex;
+  align-items: center;
+  width: 730px;
+  margin-left: 64px;
+  border: solid 1px red;
+}
+
+.header__title h1 {
+  font-family: Inter, sans-serif;
+  font-size: 102px;
+  font-weight: 600;
+  line-height: 96px;
+}

@@ -1,0 +1,9 @@
+.header__subtitle_link {
+  color: #2f80ed;
+  text-decoration: none;
+}
+
+.header__subtitle_link:hover {
+  color: red;
+  text-decoration: underline;
+}
